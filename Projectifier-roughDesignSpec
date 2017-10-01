@@ -1,0 +1,12 @@
+
+# Projectify Desktop Projectifier
+
+			APPLICATION DESIGN SPECIFICATIONS
+
+
+	APP-NAME: Projectify;
+
+	APP-TYPE: Desktop Projectifier;
+
+	APP-BASIC-PURPOSE: Collect user input for Project,
+	                   Use this  input to build a local directory tree for Project;
