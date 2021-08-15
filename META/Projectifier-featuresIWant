@@ -4,21 +4,65 @@
 
 
 
-	* UI Related:
+	**UI Related:**
+	
+		DES- CLI with 2 modes:
+		
+			normal: enter commands and get expected output
+			
+			interactive: Q&A format where each A sets an option. Afterward these are used to configure proj or build template
 
 		DES- needs Options Menus
 
-			DES- "Start Screen" w/ choice of avail. tasks
+			DES- interactive mode:
+			
+				DES- "Start Screen" w/ choice of avail. tasks:
+			
+					DES-
 
-			DES- In-game "Options/ Settings" menu:
+				DES- Inter-session "Options/ Settings" menu:
+				
+					DES- set toa a keybind by default.
+					
+						this behavior should be fully editable by default
 	
-	* Performance Related:
+	**Performance Related:**
 	
-	* General Attributes:
+	**General Attributes:**
 	
-	* Design Related:
+		modes: [
+		
+			normal / cli-mode,
+		
+			interactive-mode
+		]
+		core functions:
+		
+			create "Project"
+			
+				project can be one of many coding types:
+				
+					Java:
+				
+						Spring-Boot project:
+					
+						Maven project:
+						
+						Groovy:
+						
+						Core-with-structure:
+						
+							Has the src/main/java, src/main/resources, etc.
+					
+					Python:
+					
+						venv-structured:
+					
+						TODO: get community feedback from Reddit
 	
-	* Misc./ Unrelated:
+	**Design Related:**
+	
+	**Misc./ Unrelated:**
 	
 	
 
@@ -32,12 +76,12 @@
 
 
 
-	*  Related:
+	**EXTRA -Related:**
 	
-	*  Related:
+	**EXTRA -Related:**
 	
-	*  Related:
+	**EXTRA -Related:**
 	
-	*  Related:
+	**EXTRA -Related:**
 	
 	*  Related:
